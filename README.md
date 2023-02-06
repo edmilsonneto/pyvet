@@ -21,6 +21,6 @@ Esse código é uma implementação de uma inteligência artificial conversacion
 
 # Como executar o código
 
-1 - Instalar Python
-2 - Para executar esse código, você precisa ter as seguintes bibliotecas instaladas: openai, gTTS, pygame e speech_recognition. Elas podem ser instaladas usando o gerenciador de pacotes Python pip com os seguinte comandos: (pip install -r requirements_dev.txt) onde estão contidas as libs necessárias para funcionamento do projeto
-3 - Para executar o arquivo (python **pyvet.py**)
+- Instalar Python
+- Para executar esse código, você precisa ter as seguintes bibliotecas instaladas: openai, gTTS, pygame e speech_recognition. Elas podem ser instaladas usando o gerenciador de pacotes Python pip com os seguinte comandos: (pip install -r requirements_dev.txt) onde estão contidas as libs necessárias para funcionamento do projeto
+- Para executar o arquivo (python **pyvet.py**)
