@@ -1,7 +1,4 @@
 SpeechRecognition
-PyAudio
 gtts
 openai
-google-cloud-speech
 pygame
-google-cloud-texttospeech
