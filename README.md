@@ -12,12 +12,12 @@ Esse código é uma implementação de uma inteligência artificial conversacion
 
 # Como funciona
 
-1.  Inicialização da API da OpenAI com a chave de acesso.
-2.  Captura da pergunta do usuário através do microfone e reconhecimento de fala.
-3.  Envio da pergunta para a API da OpenAI e obtenção da resposta.
-4.  Conversão da resposta em fala com a biblioteca gTTS.
-5.  Reprodução da fala com a biblioteca pygame.
-6.  Repetição do processo a partir do passo 2, até que o usuário diga "sair do pivete".
+-   Inicialização da API da OpenAI com a chave de acesso.
+-   Captura da pergunta do usuário através do microfone e reconhecimento de fala.
+-   Envio da pergunta para a API da OpenAI e obtenção da resposta.
+-   Conversão da resposta em fala com a biblioteca gTTS.
+-   Reprodução da fala com a biblioteca pygame.
+-   Repetição do processo a partir do passo 2, até que o usuário diga "sair do pivete".
 
 # Como executar o código
 
